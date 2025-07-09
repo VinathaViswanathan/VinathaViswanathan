@@ -31,6 +31,10 @@ Built a predictive model to identify diabetes risk using the PIMA Indian Diabete
 
 ## 2. Regression Problems:
 
+### [Breast Cancer Prediction Web App with Streamlit](https://github.com/VinathaViswanathan)
+
+Developed an interactive web application using Streamlit to predict breast cancer malignancy based on cell nuclei measurements from cytology data. Implemented robust data cleaning, feature engineering, and min-max scaling, integrating a pre-trained machine learning model for real-time predictions. Enabled user-driven exploration through dynamic sliders and visualized input features using radar charts for enhanced interpretability. Achieved high predictive accuracy (commonly exceeding 95% on test data with models like Random Forest or Logistic Regression), providing instant probability estimates for benign or malignant diagnoses to assist healthcare professionals.
+
 ### [Sonar Rock VS Mine Prediction with Python](https://github.com/VinathaViswanathan)
 
 Developed a binary classification model to distinguish between sonar signals reflected from rocks and mines using the Sonar dataset and Logistic Regression. Performed label encoding, exploratory data analysis, and trained the model on 60 numerical features representing signal energy patterns. Achieved a test accuracy of approximately 83% and a training accuracy of 86%, demonstrating the model’s effectiveness in classifying unseen sonar signals. This solution provides a reliable, data-driven approach for automated object identification, supporting safer and more efficient underwater exploration.
