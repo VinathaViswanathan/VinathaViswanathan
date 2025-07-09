@@ -15,4 +15,10 @@ Developed a machine learning pipeline to predict CVSS severity scores of softwar
 
 ## Data Science Learning Projects:
 
-## Classification Problems:
+## 1. Classification Problems:
+
+## 2. Regression Problems:
+
+## 3. Natural Language Processing:
+
+## 4. Clustering
