@@ -17,31 +17,31 @@ Developed a machine learning pipeline to predict CVSS severity scores of softwar
 
 ## 1. Classification Problems:
 
-### [Titanic Survival Prediction with Python](https://github.com/VinathaViswanathan)
+### [Titanic Survival Prediction with Python](https://github.com/VinathaViswanathan/Titanic-Survival-Prediction)
 
 Developed a machine learning pipeline to predict passenger survival on the Titanic using the classic dataset and a Random Forest classifier. Implemented robust data preprocessing steps, including missing value imputation, one-hot encoding for categorical features, feature selection, and standardization. Utilized grid search with cross-validation to optimize model hyperparameters, achieving a test accuracy of approximately 81%—demonstrating strong predictive performance on unseen data. This solution enables reliable identification of survival likelihood, supporting data-driven insights into the factors that influenced outcomes on the Titanic.
 
-### [Credit Card Fraud Detection with Python](https://github.com/VinathaViswanathan)
+### [Credit Card Fraud Detection with Python](https://github.com/VinathaViswanathan/Credit-Card-Fraud-Detection)
 
 Developed a robust fraud detection system using Python to identify fraudulent transactions. Implemented data preprocessing, feature scaling, and explored multiple classification algorithms, including Decision Tree, KNN, Logistic Regression, SVM, Random Forest, and XGBoost. Achieved strong model performance, with top algorithms reaching high accuracy and F1-scores (e.g., XGBoost and Random Forest models often exceed 99% accuracy and F1-score above 0.85 for the fraud class, depending on dataset split and tuning). This solution enables early and reliable detection of fraudulent activity, significantly reducing financial risk for credit card providers.
 
-### [Diabetes Prediction with Python](https://github.com/VinathaViswanathan)
+### [Diabetes Prediction with Python](https://github.com/VinathaViswanathan/Diabetes-Prediction)
 
 Built a predictive model to identify diabetes risk using the PIMA Indian Diabetes dataset and a Support Vector Machine (SVM) classifier. Applied data standardization, exploratory analysis, and trained a linear SVM on medical features such as glucose, BMI, and insulin levels. Achieved a test accuracy of approximately 78% and a training accuracy of 79%, demonstrating reliable performance on unseen data. This solution enables early detection of diabetes risk, supporting proactive healthcare interventions through data-driven insights.
 
 ## 2. Regression Problems:
 
-### [Breast Cancer Prediction Web App with Streamlit](https://github.com/VinathaViswanathan)
+### [Breast Cancer Prediction Web App with Streamlit](https://github.com/VinathaViswanathan/Breast-Cancer-Prediction)
 
 Developed an interactive web application using Streamlit to predict breast cancer malignancy based on cell nuclei measurements from cytology data. Implemented robust data cleaning, feature engineering, and min-max scaling, integrating a pre-trained machine learning model for real-time predictions. Enabled user-driven exploration through dynamic sliders and visualized input features using radar charts for enhanced interpretability. Achieved high predictive accuracy (commonly exceeding 95% on test data with models like Random Forest or Logistic Regression), providing instant probability estimates for benign or malignant diagnoses to assist healthcare professionals.
 
-### [Sonar Rock VS Mine Prediction with Python](https://github.com/VinathaViswanathan)
+### [Sonar Rock VS Mine Prediction with Python](https://github.com/VinathaViswanathan/Sonar-Signal-Prediction)
 
 Developed a binary classification model to distinguish between sonar signals reflected from rocks and mines using the Sonar dataset and Logistic Regression. Performed label encoding, exploratory data analysis, and trained the model on 60 numerical features representing signal energy patterns. Achieved a test accuracy of approximately 83% and a training accuracy of 86%, demonstrating the model’s effectiveness in classifying unseen sonar signals. This solution provides a reliable, data-driven approach for automated object identification, supporting safer and more efficient underwater exploration.
 
 ## 3. Time Series Analytics:
 
-### [Activity Recognition from Wearable Sensor Data Using Permutation Entropy and Statistical Complexity](https://github.com/VinathaViswanathan)
+### [Activity Recognition from Wearable Sensor Data Using Permutation Entropy and Statistical Complexity](https://github.com/VinathaViswanathan/Activity-Recognition)
 
 Developed a robust pipeline for time series analysis of wearable accelerometer data from 60 subjects, extracting permutation entropy and statistical complexity features across multiple axes and signal lengths. Applied advanced time series techniques by systematically varying embedded dimension (3–6) and delay (1–3) parameters to compute features, generating a comprehensive dataset of 6,480 feature vectors for diverse physical activities (walking, running, climbing up, climbing down). Utilized scatter plots and centroid distance metrics to identify optimal feature settings for distinguishing between activity pairs, achieving maximum separation for walking vs. running at dimension 6, delay 1 (centroid distance ≈ 1.04), and for climbing up vs. climbing down at dimension 6, delay 2 (centroid distance ≈ 0.89). This approach demonstrates the effectiveness of time series entropy-complexity analysis in human activity recognition, providing a data-driven foundation for further development of real-time, sensor-based classification systems.
 
