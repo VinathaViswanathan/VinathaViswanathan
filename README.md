@@ -44,7 +44,3 @@ Developed a binary classification model to distinguish between sonar signals ref
 ### [Activity Recognition from Wearable Sensor Data Using Permutation Entropy and Statistical Complexity](https://github.com/VinathaViswanathan/Activity-Recognition)
 
 Developed a robust pipeline for time series analysis of wearable accelerometer data from 60 subjects, extracting permutation entropy and statistical complexity features across multiple axes and signal lengths. Applied advanced time series techniques by systematically varying embedded dimension (3–6) and delay (1–3) parameters to compute features, generating a comprehensive dataset of 6,480 feature vectors for diverse physical activities (walking, running, climbing up, climbing down). Utilized scatter plots and centroid distance metrics to identify optimal feature settings for distinguishing between activity pairs, achieving maximum separation for walking vs. running at dimension 6, delay 1 (centroid distance ≈ 1.04), and for climbing up vs. climbing down at dimension 6, delay 2 (centroid distance ≈ 0.89). This approach demonstrates the effectiveness of time series entropy-complexity analysis in human activity recognition, providing a data-driven foundation for further development of real-time, sensor-based classification systems.
-
-## 3. Natural Language Processing:
-
-## 4. Clustering:
