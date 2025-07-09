@@ -4,7 +4,7 @@ This portfolio showcases my journey in turning raw data into actionable insights
 
 ## Data Science Projects:
 
-### [Personalized Investment Portfolio & Asset Recommendation System]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/VinathaViswanathan/Investment-Recommendation-System))
+### [Personalized Investment Portfolio & Asset Recommendation System](https://github.com/VinathaViswanathan/Investment-Recommendation-System)
 
 This dashboard empowers users to optimize their investment portfolios and receive personalized asset recommendations using machine learning. It integrates data-driven portfolio optimization, risk analytics, and collaborative filtering to suggest assets based on peer behavior and sector trends. Dynamic sidebar filters allow segmentation by number of assets, customer type, and investment capacity, ensuring tailored insights. Each recommendation is accompanied by a confidence score and clear, human-readable reasoning, making the platform both actionable and transparent.
 
