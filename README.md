@@ -2,7 +2,7 @@
 
 This portfolio showcases my journey in turning raw data into actionable insights. Explore a curated selection of projects—from data exploration and machine learning to domain-specific case studies—each highlighting my analytical skills and passion for solving real-world problems with data.
 
-## Data Science Projects:
+## Data Science - Independent Projects:
 
 ### [Personalized Investment Portfolio & Asset Recommendation System](https://github.com/VinathaViswanathan/Investment-Recommendation-System)
 
@@ -13,7 +13,7 @@ This dashboard empowers users to optimize their investment portfolios and receiv
 Developed a machine learning pipeline to predict CVSS severity scores of software vulnerabilities by leveraging both structured features (such as CWE type and access vector) and unstructured textual summaries. The project integrated and preprocessed multiple real-world datasets, applying tailored imputation methods and advanced feature engineering for categorical and text data. A Random Forest regression model, optimized with TF-IDF vectorization for text and ordinal encoding for categorical variables, was trained to deliver accurate severity predictions. The resulting system provides interpretable results and actionable insights, enabling cybersecurity teams to prioritize vulnerabilities more efficiently and manage risk proactively.
 
 
-## Data Science Learning Projects:
+## Data Science - Learning Projects:
 
 ## 1. Classification Problems:
 
